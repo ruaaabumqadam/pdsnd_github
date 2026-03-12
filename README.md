@@ -10,4 +10,4 @@ This project analyzes bikeshare data using Python.
 The project is used to practice Git and GitHub workflow.
 
 ## Usage
-Run the Python file in a terminal after adding the bikeshare dataset locally.
+Run the script from the terminal after placing the CSV files locally.
